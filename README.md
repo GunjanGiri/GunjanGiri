@@ -95,7 +95,8 @@ I'm [ <b><i> Gunjan </i></b>](https://www.linkedin.com/in/gunjan-giri/) , a Soft
 
 <a href="https://github.com/GunjanGiri"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
         
-![Profile View Counter](https://komarev.com/ghpvc/?username=GunjanGiri)        
+![Profile View Counter](https://komarev.com/ghpvc/?username=GunjanGiri)   
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
