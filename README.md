@@ -15,11 +15,9 @@
 ### Let's get connected
 <!--social media icon-->
 
-[<img align="left" alt="gunjan | GitHub" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" />][GitHub]
 [<img align="left" alt="gunjan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gunjan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="gunjan | DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][DEV]
-[<img align="left" alt="gunjan | Gmail" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" />][Gmail]
 
 
 <br />
